@@ -25,3 +25,12 @@ body {
     text-wrap: balance;
   }
 }
+
+label {
+ color: black;
+  font-weight: bold;
+}
+
+input{
+  color: black;
+}
